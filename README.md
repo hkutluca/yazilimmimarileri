@@ -3,4 +3,4 @@ Medium da  mevcut Yazılım Mimarileri yazıları için detaylı çizimler refer
 https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri
 
 Şu anda eklenmiş olanlar
-1- Kalite öznitelikleri gereksinimleri ISO 25020 sınıflandırması
+1- ISO-25010 Kalite Öznitelikleri Türkçe Şablonu.pdf
