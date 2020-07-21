@@ -1,0 +1,1286 @@
+MIME-Version: 1.0
+X-Document-Type: Workbook
+Content-Type: multipart/related; boundary="----=_NextPart_01D65F94.18F24F20"
+
+Bu belge, Web Arþivi dosyasý olarak da bilinen Tek Dosyalý Web Sayfasýdýr. Bu iletiyi görüyorsanýz tarayýcýnýz veya düzenleyiciniz Web Arþivi dosyalarýný desteklemiyor demektir. Lütfen Web Arþivlerini destekleyen bir tarayýcý yükleyin.
+
+------=_NextPart_01D65F94.18F24F20
+Content-Location: file:///C:/F59ECFEB/file5835.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="Windows-1254"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns:dt=3D"uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta name=3D"Excel Workbook Frameset">
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3DWindows-125=
+4">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link rel=3DFile-List href=3D"file5835_dosyalar/filelist.xml">
+<![if !supportTabStrip]>
+<link id=3D"shLink" href=3D"file5835_dosyalar/sheet001.htm">
+
+<link id=3D"shLink">
+
+<script language=3D"JavaScript">
+<!--
+ var c_lTabs=3D1;
+
+ var c_rgszSh=3Dnew Array(c_lTabs);
+ c_rgszSh[0] =3D "Sayfa1";
+
+
+
+ var c_rgszClr=3Dnew Array(8);
+ c_rgszClr[0]=3D"window";
+ c_rgszClr[1]=3D"buttonface";
+ c_rgszClr[2]=3D"windowframe";
+ c_rgszClr[3]=3D"windowtext";
+ c_rgszClr[4]=3D"threedlightshadow";
+ c_rgszClr[5]=3D"threedhighlight";
+ c_rgszClr[6]=3D"threeddarkshadow";
+ c_rgszClr[7]=3D"threedshadow";
+
+ var g_iShCur;
+ var g_rglTabX=3Dnew Array(c_lTabs);
+
+function fnGetIEVer()
+{
+ var ua=3Dwindow.navigator.userAgent
+ var msie=3Dua.indexOf("MSIE")
+ if (msie>0 && window.navigator.platform=3D=3D"Win32")
+  return parseInt(ua.substring(msie+5,ua.indexOf(".", msie)));
+ else
+  return 0;
+}
+
+function fnBuildFrameset()
+{
+ var szHTML=3D"<frameset rows=3D\"*,18\" border=3D0 width=3D0 frameborder=
+=3Dno framespacing=3D0>"+
+  "<frame src=3D\""+document.all.item("shLink")[0].href+"\" name=3D\"frShee=
+t\" noresize>"+
+  "<frameset cols=3D\"54,*\" border=3D0 width=3D0 frameborder=3Dno framespa=
+cing=3D0>"+
+  "<frame src=3D\"\" name=3D\"frScroll\" marginwidth=3D0 marginheight=3D0 s=
+crolling=3Dno>"+
+  "<frame src=3D\"\" name=3D\"frTabs\" marginwidth=3D0 marginheight=3D0 scr=
+olling=3Dno>"+
+  "</frameset></frameset><plaintext>";
+
+ with (document) {
+  open("text/html","replace");
+  write(szHTML);
+  close();
+ }
+
+ fnBuildTabStrip();
+}
+
+function fnBuildTabStrip()
+{
+ var szHTML=3D
+  "<html><head><style>.clScroll {font:8pt Courier New;color:"+c_rgszClr[6]+=
+";cursor:default;line-height:10pt;}"+
+  ".clScroll2 {font:10pt Arial;color:"+c_rgszClr[6]+";cursor:default;line-h=
+eight:11pt;}</style></head>"+
+  "<body onclick=3D\"event.returnValue=3Dfalse;\" ondragstart=3D\"event.ret=
+urnValue=3Dfalse;\" onselectstart=3D\"event.returnValue=3Dfalse;\" bgcolor=
+=3D"+c_rgszClr[4]+" topmargin=3D0 leftmargin=3D0><table cellpadding=3D0 cel=
+lspacing=3D0 width=3D100%>"+
+  "<tr><td colspan=3D6 height=3D1 bgcolor=3D"+c_rgszClr[2]+"></td></tr>"+
+  "<tr><td style=3D\"font:1pt\">&nbsp;<td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll\" onclick=3D\"parent.f=
+nFastScrollTabs(0);\" onmouseover=3D\"parent.fnMouseOverScroll(0);\" onmous=
+eout=3D\"parent.fnMouseOutScroll(0);\"><a>&#171;</a></td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll2\" onclick=3D\"parent.=
+fnScrollTabs(0);\" ondblclick=3D\"parent.fnScrollTabs(0);\" onmouseover=3D\=
+"parent.fnMouseOverScroll(1);\" onmouseout=3D\"parent.fnMouseOutScroll(1);\=
+"><a>&lt</a></td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll2\" onclick=3D\"parent.=
+fnScrollTabs(1);\" ondblclick=3D\"parent.fnScrollTabs(1);\" onmouseover=3D\=
+"parent.fnMouseOverScroll(2);\" onmouseout=3D\"parent.fnMouseOutScroll(2);\=
+"><a>&gt</a></td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll\" onclick=3D\"parent.f=
+nFastScrollTabs(1);\" onmouseover=3D\"parent.fnMouseOverScroll(3);\" onmous=
+eout=3D\"parent.fnMouseOutScroll(3);\"><a>&#187;</a></td>"+
+  "<td style=3D\"font:1pt\">&nbsp;<td></tr></table></body></html>";
+
+ with (frames['frScroll'].document) {
+  open("text/html","replace");
+  write(szHTML);
+  close();
+ }
+
+ szHTML =3D
+  "<html><head>"+
+  "<style>A:link,A:visited,A:active {text-decoration:none;"+"color:"+c_rgsz=
+Clr[3]+";}"+
+  ".clTab {cursor:hand;background:"+c_rgszClr[1]+";font:9pt Arial;padding-l=
+eft:3px;padding-right:3px;text-align:center;}"+
+  ".clBorder {background:"+c_rgszClr[2]+";font:1pt;}"+
+  "</style></head><body onload=3D\"parent.fnInit();\" onselectstart=3D\"eve=
+nt.returnValue=3Dfalse;\" ondragstart=3D\"event.returnValue=3Dfalse;\" bgco=
+lor=3D"+c_rgszClr[4]+
+  " topmargin=3D0 leftmargin=3D0><table id=3DtbTabs cellpadding=3D0 cellspa=
+cing=3D0>";
+
+ var iCellCount=3D(c_lTabs+1)*2;
+
+ var i;
+ for (i=3D0;i<iCellCount;i+=3D2)
+  szHTML+=3D"<col width=3D1><col>";
+
+ var iRow;
+ for (iRow=3D0;iRow<6;iRow++) {
+
+  szHTML+=3D"<tr>";
+
+  if (iRow=3D=3D5)
+   szHTML+=3D"<td colspan=3D"+iCellCount+"></td>";
+  else {
+   if (iRow=3D=3D0) {
+    for(i=3D0;i<iCellCount;i++)
+     szHTML+=3D"<td height=3D1 class=3D\"clBorder\"></td>";
+   } else if (iRow=3D=3D1) {
+    for(i=3D0;i<c_lTabs;i++) {
+     szHTML+=3D"<td height=3D1 nowrap class=3D\"clBorder\">&nbsp;</td>";
+     szHTML+=3D
+      "<td id=3DtdTab height=3D1 nowrap class=3D\"clTab\" onmouseover=3D\"p=
+arent.fnMouseOverTab("+i+");\" onmouseout=3D\"parent.fnMouseOutTab("+i+");\=
+">"+
+      "<a href=3D\""+document.all.item("shLink")[i].href+"\" target=3D\"frS=
+heet\" id=3DaTab>&nbsp;"+c_rgszSh[i]+"&nbsp;</a></td>";
+    }
+    szHTML+=3D"<td id=3DtdTab height=3D1 nowrap class=3D\"clBorder\"><a id=
+=3DaTab>&nbsp;</a></td><td width=3D100%></td>";
+   } else if (iRow=3D=3D2) {
+    for (i=3D0;i<c_lTabs;i++)
+     szHTML+=3D"<td height=3D1></td><td height=3D1 class=3D\"clBorder\"></t=
+d>";
+    szHTML+=3D"<td height=3D1></td><td height=3D1></td>";
+   } else if (iRow=3D=3D3) {
+    for (i=3D0;i<iCellCount;i++)
+     szHTML+=3D"<td height=3D1></td>";
+   } else if (iRow=3D=3D4) {
+    for (i=3D0;i<c_lTabs;i++)
+     szHTML+=3D"<td height=3D1 width=3D1></td><td height=3D1></td>";
+    szHTML+=3D"<td height=3D1 width=3D1></td><td></td>";
+   }
+  }
+  szHTML+=3D"</tr>";
+ }
+
+ szHTML+=3D"</table></body></html>";
+ with (frames['frTabs'].document) {
+  open("text/html","replace");
+  charset=3Ddocument.charset;
+  write(szHTML);
+  close();
+ }
+}
+
+function fnInit()
+{
+ g_rglTabX[0]=3D0;
+ var i;
+ for (i=3D1;i<=3Dc_lTabs;i++)
+  with (frames['frTabs'].document.all.tbTabs.rows[1].cells[fnTabToCol(i-1)])
+   g_rglTabX[i]=3DoffsetLeft+offsetWidth-6;
+}
+
+function fnTabToCol(iTab)
+{
+ return 2*iTab+1;
+}
+
+function fnNextTab(fDir)
+{
+ var iNextTab=3D-1;
+ var i;
+
+ with (frames['frTabs'].document.body) {
+  if (fDir=3D=3D0) {
+   if (scrollLeft>0) {
+    for (i=3D0;i<c_lTabs&&g_rglTabX[i]<scrollLeft;i++);
+    if (i<c_lTabs)
+     iNextTab=3Di-1;
+   }
+  } else {
+   if (g_rglTabX[c_lTabs]+6>offsetWidth+scrollLeft) {
+    for (i=3D0;i<c_lTabs&&g_rglTabX[i]<=3DscrollLeft;i++);
+    if (i<c_lTabs)
+     iNextTab=3Di;
+   }
+  }
+ }
+ return iNextTab;
+}
+
+function fnScrollTabs(fDir)
+{
+ var iNextTab=3DfnNextTab(fDir);
+
+ if (iNextTab>=3D0) {
+  frames['frTabs'].scroll(g_rglTabX[iNextTab],0);
+  return true;
+ } else
+  return false;
+}
+
+function fnFastScrollTabs(fDir)
+{
+ if (c_lTabs>16)
+  frames['frTabs'].scroll(g_rglTabX[fDir?c_lTabs-1:0],0);
+ else
+  if (fnScrollTabs(fDir)>0) window.setTimeout("fnFastScrollTabs("+fDir+");"=
+,5);
+}
+
+function fnSetTabProps(iTab,fActive)
+{
+ var iCol=3DfnTabToCol(iTab);
+ var i;
+
+ if (iTab>=3D0) {
+  with (frames['frTabs'].document.all) {
+   with (tbTabs) {
+    for (i=3D0;i<=3D4;i++) {
+     with (rows[i]) {
+      if (i=3D=3D0)
+       cells[iCol].style.background=3Dc_rgszClr[fActive?0:2];
+      else if (i>0 && i<4) {
+       if (fActive) {
+        cells[iCol-1].style.background=3Dc_rgszClr[2];
+        cells[iCol].style.background=3Dc_rgszClr[0];
+        cells[iCol+1].style.background=3Dc_rgszClr[2];
+       } else {
+        if (i=3D=3D1) {
+         cells[iCol-1].style.background=3Dc_rgszClr[2];
+         cells[iCol].style.background=3Dc_rgszClr[1];
+         cells[iCol+1].style.background=3Dc_rgszClr[2];
+        } else {
+         cells[iCol-1].style.background=3Dc_rgszClr[4];
+         cells[iCol].style.background=3Dc_rgszClr[(i=3D=3D2)?2:4];
+         cells[iCol+1].style.background=3Dc_rgszClr[4];
+        }
+       }
+      } else
+       cells[iCol].style.background=3Dc_rgszClr[fActive?2:4];
+     }
+    }
+   }
+   with (aTab[iTab].style) {
+    cursor=3D(fActive?"default":"hand");
+    color=3Dc_rgszClr[3];
+   }
+  }
+ }
+}
+
+function fnMouseOverScroll(iCtl)
+{
+ frames['frScroll'].document.all.tdScroll[iCtl].style.color=3Dc_rgszClr[7];
+}
+
+function fnMouseOutScroll(iCtl)
+{
+ frames['frScroll'].document.all.tdScroll[iCtl].style.color=3Dc_rgszClr[6];
+}
+
+function fnMouseOverTab(iTab)
+{
+ if (iTab!=3Dg_iShCur) {
+  var iCol=3DfnTabToCol(iTab);
+  with (frames['frTabs'].document.all) {
+   tdTab[iTab].style.background=3Dc_rgszClr[5];
+  }
+ }
+}
+
+function fnMouseOutTab(iTab)
+{
+ if (iTab>=3D0) {
+  var elFrom=3Dframes['frTabs'].event.srcElement;
+  var elTo=3Dframes['frTabs'].event.toElement;
+
+  if ((!elTo) ||
+   (elFrom.tagName=3D=3DelTo.tagName) ||
+   (elTo.tagName=3D=3D"A" && elTo.parentElement!=3DelFrom) ||
+   (elFrom.tagName=3D=3D"A" && elFrom.parentElement!=3DelTo)) {
+
+   if (iTab!=3Dg_iShCur) {
+    with (frames['frTabs'].document.all) {
+     tdTab[iTab].style.background=3Dc_rgszClr[1];
+    }
+   }
+  }
+ }
+}
+
+function fnSetActiveSheet(iSh)
+{
+ if (iSh!=3Dg_iShCur) {
+  fnSetTabProps(g_iShCur,false);
+  fnSetTabProps(iSh,true);
+  g_iShCur=3DiSh;
+ }
+}
+
+ window.g_iIEVer=3DfnGetIEVer();
+ if (window.g_iIEVer>=3D4)
+  fnBuildFrameset();
+//-->
+</script>
+<![endif]><!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>Sayfa1</x:Name>
+    <x:WorksheetSource HRef=3D"file5835_dosyalar/sheet001.htm"/>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:Stylesheet HRef=3D"file5835_dosyalar/stylesheet.css"/>
+  <x:WindowHeight>11020</x:WindowHeight>
+  <x:WindowWidth>19420</x:WindowWidth>
+  <x:WindowTopX>32767</x:WindowTopX>
+  <x:WindowTopY>32767</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<frameset rows=3D"*,39" border=3D0 width=3D0 frameborder=3Dno framespacing=
+=3D0>
+ <frame src=3D"file5835_dosyalar/sheet001.htm" name=3D"frSheet">
+ <frame src=3D"file5835_dosyalar/tabstrip.htm" name=3D"frTabs" marginwidth=
+=3D0 marginheight=3D0>
+ <noframes>
+  <body>
+   <p>Bu sayfa çerçeveler kullanýyor ancak tarayýcýnýz çerçeveleri destekle=
+miyor.</p>
+  </body>
+ </noframes>
+</frameset>
+</html>
+
+------=_NextPart_01D65F94.18F24F20
+Content-Location: file:///C:/F59ECFEB/file5835_dosyalar/stylesheet.css
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/css; charset="Windows-1254"
+
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style16
+	{color:#0563C1;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:162;
+	mso-style-name:Köprü;
+	mso-style-id:8;}
+a:link
+	{color:#0563C1;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:162;}
+a:visited
+	{color:#954F72;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:162;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:162;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+.font0
+	{color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:162;}
+.font5
+	{color:#292929;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Georgia, serif;
+	mso-font-charset:162;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:162;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl65
+	{mso-style-parent:style0;
+	white-space:normal;}
+.xl66
+	{mso-style-parent:style0;
+	font-size:14.0pt;
+	font-weight:700;
+	border:1.5pt solid windowtext;}
+.xl67
+	{mso-style-parent:style0;
+	text-align:left;
+	vertical-align:top;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	white-space:normal;}
+.xl68
+	{mso-style-parent:style0;
+	text-align:left;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;}
+.xl69
+	{mso-style-parent:style16;
+	color:#0563C1;
+	text-decoration:underline;
+	text-underline-style:single;
+	text-align:left;
+	vertical-align:top;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	white-space:normal;}
+
+------=_NextPart_01D65F94.18F24F20
+Content-Location: file:///C:/F59ECFEB/file5835_dosyalar/tabstrip.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="Windows-1254"
+
+<html>
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3DWindows-125=
+4">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File href=3D"../file5835.htm">
+<![if IE]>
+<base href=3D"file:///C:/F59ECFEB/file5835_dosyalar/tabstrip.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<script language=3D"JavaScript">
+<!--
+if (window.name!=3D"frTabs")
+ window.location.replace(document.all.item("Main-File").href);
+//-->
+</script>
+<style>
+<!--
+A {
+    text-decoration:none;
+    color:#000000;
+    font-size:9pt;
+}
+-->
+</style>
+</head>
+<body topmargin=3D0 leftmargin=3D0 bgcolor=3D"#808080">
+<table border=3D0 cellspacing=3D1>
+ <tr>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"sheet001.=
+htm" target=3D"frSheet"><font face=3D"Arial" color=3D"#000000">Sayfa1</font=
+></a>&nbsp;</small></small></b></td>
+
+ </tr>
+</table>
+</body>
+</html>
+
+------=_NextPart_01D65F94.18F24F20
+Content-Location: file:///C:/F59ECFEB/file5835_dosyalar/sheet001.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="Windows-1254"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3DWindows-125=
+4">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File href=3D"../file5835.htm">
+<link rel=3DFile-List href=3Dfilelist.xml>
+<![if IE]>
+<base href=3D"file:///C:/F59ECFEB/file5835_dosyalar/sheet001.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dstylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:.75in .71in .75in .71in;
+	mso-header-margin:.31in;
+	mso-footer-margin:.31in;
+	mso-page-orientation:landscape;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(0);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../file5835.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=3D"#0563C1" vlink=3D"#954F72">
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D1213 style=3D'bor=
+der-collapse:
+ collapse;table-layout:fixed;width:911pt'>
+ <col width=3D181 span=3D2 style=3D'mso-width-source:userset;mso-width-alt:=
+6306;
+ width:136pt'>
+ <col width=3D422 style=3D'mso-width-source:userset;mso-width-alt:14731;wid=
+th:317pt'>
+ <col width=3D301 style=3D'mso-width-source:userset;mso-width-alt:10496;wid=
+th:226pt'>
+ <col width=3D64 span=3D2 style=3D'width:48pt'>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 width=3D181 style=3D'height:15.0pt;width:136pt'></td>
+  <td width=3D181 style=3D'width:136pt'></td>
+  <td width=3D422 style=3D'width:317pt'></td>
+  <td width=3D301 style=3D'width:226pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+ </tr>
+ <tr height=3D26 style=3D'height:19.5pt'>
+  <td height=3D26 class=3Dxl66 style=3D'height:19.5pt'>Terim</td>
+  <td class=3Dxl66 style=3D'border-left:none'>Ýngilizce</td>
+  <td class=3Dxl66 style=3D'border-left:none'>Açýklamasý</td>
+  <td class=3Dxl66 style=3D'border-left:none'>Ýlgili Yazý</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D233 style=3D'height:174.5pt'>
+  <td height=3D233 class=3Dxl68 style=3D'height:174.5pt'>Açýk mimari</td>
+  <td class=3Dxl68 style=3D'border-left:none'>Open Architecture</td>
+  <td class=3Dxl67 width=3D422 style=3D'border-left:none;width:317pt'>Açýk =
+Mimari,
+  açýk standartlarý kullanarak geliþtirilmiþ ve yeni bileþen ekleme, deðiþt=
+irme
+  ve yerine farklýsýný koyma yada çýkartmayý kolaylaþtýrmýþ bilgisayar yada
+  yazýlým mimarisi olarak tanýmlanabilir.<span style=3D'mso-spacerun:yes'> 
+  </span>Açýk ve ortak kabul görmüþ standartlarýn kullanýmý<br>
+    Arayüz protokol ve veri standartlarýnýn kabul edilmesi<br>
+    Standart servislerin belirlenmesi<br>
+    Birden fazla üretici tarafýndan saðlanan ürünlerin kullanýmý<br>
+    En az çaba ile birlikte çalýþabilirlik<br>
+    Kolayca ölçeklenebilir ve güncellenebilir sistemler<br>
+    Taþýnabilir uygulamalar<br>
+    Taþýnabilir kullanýcýlar(kullanýcýlarýn ayný amaçlý farklý sistemlere
+  kolayca adapte olmasý)</td>
+  <td class=3Dxl69 width=3D301 style=3D'border-left:none;width:226pt'><a
+  href=3D"https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/a%C3%A7%C4%B1k-si=
+stem-mimarileri-1-temel-%C3%B6zellikler-6a413b754a62"
+  target=3D"_parent">https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/a%C3%A=
+7%C4%B1k-sistem-mimarileri-1-temel-%C3%B6zellikler-6a413b754a62</a></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D251 style=3D'height:188.5pt'>
+  <td height=3D251 class=3Dxl68 style=3D'height:188.5pt'>Arakatman&nbsp;</t=
+d>
+  <td class=3Dxl68 style=3D'border-left:none'>middleware</td>
+  <td class=3Dxl67 width=3D422 style=3D'border-left:none;width:317pt'>Daðýt=
+ýk ortamda
+  farklý çalýþabilir modüller olarak geliþtirilen yazýlýmýn bir bütün olarak
+  çalýþabilmesi için baþta veri alýþveriþi olmak üzere farklý seviyelerde
+  iþbirliði yapmalarý gerekmektedir. Daðýtýk ortamda çalýþan bu uygulamalar=
+ýn
+  iletiþimi için kendimizin geliþtireceði TCP/IP yada UDP protokolü ile
+  haberleþen kütüphanelerden yerine Arakatman yazýlýmlarý daðýtýk uygulamal=
+ar
+  ile iþletim sistemi ve haberleþme protokolü arasýnda bir katman olarak
+  görülmektedir. Heterojen bir sistemde tüm farklýlýklarý yöneterek üst sev=
+iye
+  uygulamalarý karmaþýklýktan kurtarýr. Ayný zamanda bu uygulamalarýn herha=
+ngi
+  bir anda hangi bilgisayar üzerinde çalýþtýðý, o an hayatta olup olmadýðý,
+  veriyi almaya hazýr olup olmadýðý gibi daha birçok teknik problemi çözmek
+  üzere tasarlanmaktadýr.</td>
+  <td class=3Dxl69 width=3D301 style=3D'border-left:none;width:226pt'><a
+  href=3D"https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/arakatmanlar-1-ar=
+akatman-yaz%C4%B1l%C4%B1mlar%C4%B1-genel-bilgiler-c6c8d5e8f23a"
+  target=3D"_parent">https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/arakat=
+manlar-1-arakatman-yaz%C4%B1l%C4%B1mlar%C4%B1-genel-bilgiler-c6c8d5e8f23a</=
+a></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D251 style=3D'height:188.5pt'>
+  <td height=3D251 class=3Dxl68 style=3D'height:188.5pt'>Baðýmlýlýk</td>
+  <td class=3Dxl68 style=3D'border-left:none'>Coupling</td>
+  <td class=3Dxl67 width=3D422 style=3D'border-left:none;width:317pt'>Baðým=
+lýlýk kod
+  seviyesi (kod), kurulabilme (deployment) veya çalýþma zamaný (execution t=
+ime)
+  olabilmektedir<font class=3D"font5">. Her bir seviye baðýmlýlýðýn azaltýl=
+masý
+  farklý açýlardan projeye fayda saðlayacaktýr.&nbsp;</font><font class=3D"=
+font0">
+  <br>
+    Veri Yapýsý Baðýmlýlýðýnda bir bileþen diðer bir bileþen ile bir nesne =
+yada
+  veri yapýsýnýn tamamýný paylaþýr. Kontrol baðýmlýlýðýnda bir baþka bir
+  bileþenin nasýl iþleyeceði ile ilgili kontrol algoritmasýný belirler. <br>
+    Dýþ baðýmlýlýkta yazýlým bileþeni dýþ bir donanýma yada baþka bir yazýl=
+ýma
+  baðýmlýdýr. <br>
+    Ortak baðýmlýlýkta ise iki bileþen ortak bir veri yapýsýna
+  baðýmlýdýr.<br>
+    Ýçerik Baðýmlýlýðýnda bir bileþen diðer bileþenin verisini yada kontrol
+  akýþýný deðiþtirir. Bu en kötü baðýmlýlýktýr.</font></td>
+  <td class=3Dxl69 width=3D301 style=3D'border-left:none;width:226pt'><a
+  href=3D"https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/tasar%C4%B1m%C4%B=
+1n-temelleri-2-ba%C4%9F%C4%B1ml%C4%B1l%C4%B1k-ve-uyumluluk-tasar%C4%B1m-pre=
+nsipleri-20e28490e985"
+  target=3D"_parent">https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/tasar%=
+C4%B1m%C4%B1n-temelleri-2-ba%C4%9F%C4%B1ml%C4%B1l%C4%B1k-ve-uyumluluk-tasar=
+%C4%B1m-prensipleri-20e28490e985</a></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D77 style=3D'height:58.0pt'>
+  <td height=3D77 class=3Dxl68 style=3D'height:58.0pt'>Bileþen tabanlý mima=
+ri<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl68 style=3D'border-left:none'>Component Based Architectu<sp=
+an
+  style=3D'display:none'>re</span></td>
+  <td class=3Dxl67 width=3D422 style=3D'border-left:none;width:317pt'>Siste=
+m küçük
+  bileþenler ve bu bileþenleri bir arada tutan bileþen yöneticisinden meyda=
+na
+  gelir. Bileþen yöneticisi çalýþma zamanýnda kendisine tanýmlanan bileþenl=
+eri
+  baþlatabilir, durdurabilir. Bileþenlerin genelde tanýmlý standart ara yüz=
+leri
+  bulunmaktadýr.<span style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl69 width=3D301 style=3D'border-left:none;width:226pt'><a
+  href=3D"https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/mimari-tasar%C4%B=
+1m-kal%C4%B1plar%C4%B1-94a4f47d32a8"
+  target=3D"_parent">https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/mimari=
+-tasar%C4%B1m-kal%C4%B1plar%C4%B1-94a4f47d32a8</a></td>
+  <td></td>
+  <td class=3Dxl69 width=3D64 style=3D'width:48pt'><u style=3D'visibility:h=
+idden;
+  mso-ignore:visibility'>&nbsp;</u></td>
+ </tr>
+ <tr height=3D122 style=3D'mso-height-source:userset;height:91.5pt'>
+  <td height=3D122 class=3Dxl68 style=3D'height:91.5pt'>Desen</td>
+  <td class=3Dxl68 style=3D'border-left:none'>Pattern<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl67 width=3D422 style=3D'border-left:none;width:317pt'>Mimar=
+i desenler
+  ise tekrarlanan tasarým problemlerine bulunmuþ ve çalýþtýðý ispat edilmiþ
+  çözüm yöntemleridir.<font class=3D"font5">&nbsp;Bina mimari tasarýmýnda
+  kullanýlan tasarým kalýplarý ile benzer yaklaþýmdadýr.<span
+  style=3D'mso-spacerun:yes'>  </span>Mimari desenler, yazýlým geliþtirmede
+  kullanýlan tasarým desenlerine göre daha üst seviyede görülmektedir.</fon=
+t></td>
+  <td class=3Dxl69 width=3D301 style=3D'border-left:none;width:226pt'><a
+  href=3D"https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/yaz%C4%B1l%C4%B1m=
+-mimarisi-temel-kavramlar-4de64353b4ac"
+  target=3D"_parent">https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/yaz%C4=
+%B1l%C4%B1m-mimarisi-temel-kavramlar-4de64353b4ac</a></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D116 style=3D'height:87.0pt'>
+  <td height=3D116 class=3Dxl68 style=3D'height:87.0pt'>Durum Makinesi</td>
+  <td class=3Dxl68 style=3D'border-left:none'>State Machine</td>
+  <td class=3Dxl67 width=3D422 style=3D'border-left:none;width:317pt'>Nesne=
+lerin
+  kontrol ve durum akýþýný modellemek için kullanýlýr.<span
+  style=3D'mso-spacerun:yes'>  </span>Durum(State) tasarladýðýmýz sistemin
+  belirli bir iþi yaptýðý yada baþka bir duruma geçmek için uyarý beklediði
+  koþullardýr. laylar (Event) sistemde durum deðiþikliðine sebep olan iç ve=
+ya
+  dýþ itkilerdir. Bir tuþa basýlmasý, belirli bir zamanýn geçmesi, kapýnýn
+  açýlmasý birer olay olarak durum deðiþikliðine sebep olurlar.</td>
+  <td class=3Dxl69 width=3D301 style=3D'border-left:none;width:226pt'><a
+  href=3D"https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/g%C3%B6m%C3%BCl%C=
+3%BC-ve-ger%C3%A7ek-zamanl%C4%B1-tasar%C4%B1m-kal%C4%B1plar%C4%B1-1-durum-m=
+akineleri-e9ab5200decb"
+  target=3D"_parent">https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/g%C3%B=
+6m%C3%BCl%C3%BC-ve-ger%C3%A7ek-zamanl%C4%B1-tasar%C4%B1m-kal%C4%B1plar%C4%B=
+1-1-durum-makineleri-e9ab5200decb</a></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D116 style=3D'height:87.0pt'>
+  <td height=3D116 class=3Dxl68 style=3D'height:87.0pt'>Kalite Öznitelikleri
+  Çalýþtayý&nbsp;</td>
+  <td class=3Dxl68 style=3D'border-left:none'>Quality Attribute Workshop</t=
+d>
+  <td class=3Dxl67 width=3D422 style=3D'border-left:none;width:317pt'>Proje
+  paydaþlarýný bir araya getirerek etkileþim ile gereksinimler üzerinde
+  hemfikir olmayý hedefler. Bu etkileþim geliþtirilen sistemin paydaþlarýn
+  beklentileri ile uyumlu olmasýný ve projenin geliþtirme aþamasýnda
+  baþarýsýzlýða sebep olacak hataya dayanýklýlýk, performans gibi kalite
+  gereksinimlerinin erken aþamada tasarýma girmesini saðlayacaktýr.</td>
+  <td class=3Dxl69 width=3D301 style=3D'border-left:none;width:226pt'><a
+  href=3D"https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/kalite-%C3%B6znit=
+elikleri-%C3%A7al%C4%B1%C5%9Ftay%C4%B1-ya-da-kalite-fikir-f%C4%B1rt%C4%B1na=
+s%C4%B1-a521409c7a23"
+  target=3D"_parent">https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/kalite=
+-%C3%B6znitelikleri-%C3%A7al%C4%B1%C5%9Ftay%C4%B1-ya-da-kalite-fikir-f%C4%B=
+1rt%C4%B1nas%C4%B1-a521409c7a23</a></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D213 style=3D'height:159.5pt'>
+  <td height=3D213 class=3Dxl68 style=3D'height:159.5pt'>Kalite Öznitelikle=
+ri Tabanlý
+  Ta<span style=3D'display:none'>sarým<span style=3D'mso-spacerun:yes'> </s=
+pan></span></td>
+  <td class=3Dxl68 style=3D'border-left:none'>Attribute Driven Design-ADD</=
+td>
+  <td class=3Dxl67 width=3D422 style=3D'border-left:none;width:317pt'>Kalite
+  Öznitelikleri Tabanlý Tasarým öncelikleana kullaným durumlarý, kalite
+  öznitelik senaryolarý, mimari kaygýlar ve proje sýnýrlamalarý girdilerin
+  deðerlendirilmesi ile baþlýyor. Bu veriler deðerlendirildikten sonra tekr=
+arlý
+  bir þekilde yazýlým mimarisi tasarýmý üst seviyeden baþlanýlarak
+  detaylandýrýlýr. Tasarým problemi daha alt problemlere bölünür. Bu döngüde
+  hangi problemi adresleyeceðine karar verirsin. Genelde ilk iterasyonda si=
+stem
+  mimarisinin ana iskeleti oluþturulur. Daha sonra bu iskeleti destekleyece=
+k ek
+  yapýlar tasarlanýr. Ýhtiyaç duyulmasý durumunda üçüncü ve devamýndaki
+  döngülerde hala çözüm üretilmemiþ problemler çözümlenir.</td>
+  <td class=3Dxl69 width=3D301 style=3D'border-left:none;width:226pt'><a
+  href=3D"https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/yaz%C4%B1l%C4%B1m=
+-mimarileri-5-kalite-%C3%B6znitelikleri-tabanl%C4%B1-tasar%C4%B1m-fb38d7937=
+6f3"
+  target=3D"_parent">https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/yaz%C4=
+%B1l%C4%B1m-mimarileri-5-kalite-%C3%B6znitelikleri-tabanl%C4%B1-tasar%C4%B1=
+m-fb38d79376f3</a></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D116 style=3D'height:87.0pt'>
+  <td height=3D116 class=3Dxl68 style=3D'height:87.0pt'>Katmanlý Mimari</td>
+  <td class=3Dxl68 style=3D'border-left:none'>Layered Architecture</td>
+  <td class=3Dxl67 width=3D422 style=3D'border-left:none;width:317pt'>Her k=
+atman
+  farklý bir fonksiyonu yerine getirir ve genel olarak kendisinden bir alt =
+ve
+  bir üst katman ile iletiþim kurar. Katmanlý mimari kalýbýnda eðer bir kat=
+man
+  sadece bir alt katmandan servis alabiliyor ise bu tür sistemlere kapalý
+  katmanlý sistem diyoruz. Bir katman kendinden iki ve daha fazla altta olan
+  katmanlara da eriþiyor ise buna açýk katmanlý sistem denmektedir.</td>
+  <td class=3Dxl69 width=3D301 style=3D'border-left:none;width:226pt'><a
+  href=3D"https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/mimari-tasar%C4%B=
+1m-kal%C4%B1plar%C4%B1-94a4f47d32a8"
+  target=3D"_parent">https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/mimari=
+-tasar%C4%B1m-kal%C4%B1plar%C4%B1-94a4f47d32a8</a></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D77 style=3D'height:58.0pt'>
+  <td height=3D77 class=3Dxl68 style=3D'height:58.0pt'>Mevcut Sistemde Tasa=
+rým De<span
+  style=3D'display:none'>ðiþikliði</span></td>
+  <td class=3Dxl68 style=3D'border-left:none'><span
+  style=3D'mso-spacerun:yes'> </span>BrownField System</td>
+  <td class=3Dxl67 width=3D422 style=3D'border-left:none;width:317pt'>Mevcu=
+t bir
+  sistemin üzerine sistemin geçmiþten gelen tasarýmsal kýsýtlarýný göz önün=
+de
+  tutarak ekleme ve deðiþiklikler yapýlýr.</td>
+  <td class=3Dxl69 width=3D301 style=3D'border-left:none;width:226pt'><a
+  href=3D"https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/yaz%C4%B1l%C4%B1m=
+-mimarileri-5-kalite-%C3%B6znitelikleri-tabanl%C4%B1-tasar%C4%B1m-fb38d7937=
+6f3"
+  target=3D"_parent">https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/yaz%C4=
+%B1l%C4%B1m-mimarileri-5-kalite-%C3%B6znitelikleri-tabanl%C4%B1-tasar%C4%B1=
+m-fb38d79376f3</a></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D174 style=3D'height:130.5pt'>
+  <td height=3D174 class=3Dxl68 style=3D'height:130.5pt'>Mikro-Servis Mimar=
+isi</td>
+  <td class=3Dxl68 style=3D'border-left:none'>Microserivce Architecture</td>
+  <td class=3Dxl67 width=3D422 style=3D'border-left:none;width:317pt'>Mikro=
+ servis
+  kavramýndaki temel bakýþ servislerin mikro olmasýndan çok anlamlý ve tek =
+bir
+  iþ mantýðýmý saðlýyor olmasýdýr. Ayný zamanda yönetilebilir küçük bir tak=
+ým
+  tarafýndan geliþtirilebilir olmasý önem verilen bir noktadýr. Mikro servis
+  mimarisi aslýnda daðýtýk mimarinin temel faydalarýndan faydalanmak üzere
+  geliþmiþtir. Servisler birbirinden baðýmsýz þekilde yüklenebilir. Bir ser=
+vis
+  istenmeden kapandýðýnda diðer servisleri etkilemez. Kritik servisler bird=
+en
+  fazla kopya çalýþtýrýlarak geniþleyebilen yapý saðlanýr.</td>
+  <td class=3Dxl69 width=3D301 style=3D'border-left:none;width:226pt'><a
+  href=3D"https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/mimari-tasar%C4%B=
+1m-kal%C4%B1plar%C4%B1-94a4f47d32a8"
+  target=3D"_parent">https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/mimari=
+-tasar%C4%B1m-kal%C4%B1plar%C4%B1-94a4f47d32a8</a></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D77 style=3D'height:58.0pt'>
+  <td height=3D77 class=3Dxl68 style=3D'height:58.0pt'>Mimari Erozyon</td>
+  <td class=3Dxl68 style=3D'border-left:none'>Architectural Erosion</td>
+  <td class=3Dxl67 width=3D422 style=3D'border-left:none;width:317pt'>proje=
+nin ileri
+  ki aþamalarýnda takvim sýkýþýklýðý, yazýlýmcý deðiþikliði gibi faktörler =
+ile
+  mimari kararlar doðru þekilde yazýlýma aktarýlmaz yada mevcut bir özellik
+  istenmeden bozulur.</td>
+  <td class=3Dxl69 width=3D301 style=3D'border-left:none;width:226pt'><a
+  href=3D"https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/mimarinin-evrimi-=
+3-yeniden-d%C3%BCzenleme-yada-yeniden-yazma-a54205e0ac19"
+  target=3D"_parent">https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/mimari=
+nin-evrimi-3-yeniden-d%C3%BCzenleme-yada-yeniden-yazma-a54205e0ac19</a></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D77 style=3D'height:58.0pt'>
+  <td height=3D77 class=3Dxl68 style=3D'height:58.0pt'>Mimari Kaygýlar</td>
+  <td class=3Dxl68 style=3D'border-left:none'>Architectural Concerns</td>
+  <td class=3Dxl67 width=3D422 style=3D'border-left:none;width:317pt'><br>
+    Mimari kaygýlar ise alýnmasý gereken tasarým kararlarýný ifade eder. Ör=
+nek
+  olarak alýnan verinin doðrulamasý, iletiþim mekanizmalarý, verinin yedeði=
+nin
+  alýnmasý ve hata yönetimi sayýlabilir.</td>
+  <td class=3Dxl69 width=3D301 style=3D'border-left:none;width:226pt'><a
+  href=3D"https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/yaz%C4%B1l%C4%B1m=
+-mimarisi-2-mimari-gereksinimler-bf010e41f99c"
+  target=3D"_parent">https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/yaz%C4=
+%B1l%C4%B1m-mimarisi-2-mimari-gereksinimler-bf010e41f99c</a></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D97 style=3D'height:72.5pt'>
+  <td height=3D97 class=3Dxl68 style=3D'height:72.5pt'>Mimari Ödün Analizi =
+Metodu</td>
+  <td class=3Dxl68 style=3D'border-left:none'>(Architectural Tradeoff Analy=
+<span
+  style=3D'display:none'>sis Method-ATAM</span></td>
+  <td class=3Dxl67 width=3D422 style=3D'border-left:none;width:317pt'>ATAM =
+incelenen
+  mimarinin potansiyel risklerini, ödünleþim ve duyarlýlýk noktalarýný tesp=
+it
+  eden bir yazýlým mimarisi deðerlendirme ve analiz etme yöntemidir. ATAM,
+  alýnan tasarým kararlarýnýn sonuçlarýný sistemden beklenen kalite
+  öznitelikleri doðrultusunda deðerlendirmeyi amaçlar.</td>
+  <td class=3Dxl69 width=3D301 style=3D'border-left:none;width:226pt'><a
+  href=3D"https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/yaz%C4%B1l%C4%B1m=
+-mimarisi-9-mimarinin-de%C4%9Ferlendirilmesi-8c0657c514b7"
+  target=3D"_parent">https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/yaz%C4=
+%B1l%C4%B1m-mimarisi-9-mimarinin-de%C4%9Ferlendirilmesi-8c0657c514b7</a></t=
+d>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D97 style=3D'height:72.5pt'>
+  <td height=3D97 class=3Dxl68 style=3D'height:72.5pt'>Olay Fýrtýnasý</td>
+  <td class=3Dxl68 style=3D'border-left:none'><span
+  style=3D'mso-spacerun:yes'> </span>Event Stroming</td>
+  <td class=3Dxl67 width=3D422 style=3D'border-left:none;width:317pt'>Ýþ al=
+anýný daha
+  iyi analiz edilerek fonksiyonel gereksinimlerin oluþturulmasý hedefleyen =
+bir
+  yöntemdir. Bu yaklaþým son zamanlarda (Ýþ alaný Tabanlý Tasarým (Domain
+  Driven Design) için etkin olarak kullanýlmaktadýr.</td>
+  <td class=3Dxl69 width=3D301 style=3D'border-left:none;width:226pt'><a
+  href=3D"https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/kalite-%C3%B6znit=
+elikleri-%C3%A7al%C4%B1%C5%9Ftay%C4%B1-ya-da-kalite-fikir-f%C4%B1rt%C4%B1na=
+s%C4%B1-a521409c7a23"
+  target=3D"_parent">https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/kalite=
+-%C3%B6znitelikleri-%C3%A7al%C4%B1%C5%9Ftay%C4%B1-ya-da-kalite-fikir-f%C4%B=
+1rt%C4%B1nas%C4%B1-a521409c7a23</a></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D97 style=3D'height:72.5pt'>
+  <td height=3D97 class=3Dxl68 style=3D'height:72.5pt'>Oyun fýrtýnasý</td>
+  <td class=3Dxl68 style=3D'border-left:none'>Game-Storming</td>
+  <td class=3Dxl67 width=3D422 style=3D'border-left:none;width:317pt'>B<font
+  class=3D"font5">ir konuda ilgili bütün paydaþlarýn bir araya gelerek prob=
+lemi
+  yaratýcý bir þekilde oyun yöntemi ile analiz edip çözüm üretmeyi hedefler.
+  Yaratýcýlýðý ve paydaþlar arasý sahiplenmeyi arttýrdýðý için son yýllarda
+  aktif olarak tercih edilmektedir.</font></td>
+  <td class=3Dxl69 width=3D301 style=3D'border-left:none;width:226pt'><a
+  href=3D"https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/kalite-%C3%B6znit=
+elikleri-%C3%A7al%C4%B1%C5%9Ftay%C4%B1-ya-da-kalite-fikir-f%C4%B1rt%C4%B1na=
+s%C4%B1-a521409c7a23"
+  target=3D"_parent">https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/kalite=
+-%C3%B6znitelikleri-%C3%A7al%C4%B1%C5%9Ftay%C4%B1-ya-da-kalite-fikir-f%C4%B=
+1rt%C4%B1nas%C4%B1-a521409c7a23</a></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D77 style=3D'height:58.0pt'>
+  <td height=3D77 class=3Dxl68 style=3D'height:58.0pt'>Paydaþ</td>
+  <td class=3Dxl68 style=3D'border-left:none'>Stakeholder</td>
+  <td class=3Dxl67 width=3D422 style=3D'border-left:none;width:317pt'>Yazýl=
+ým
+  mimarisinin paydaþlarý mimari ile ilgisi olan geliþtirici, test mühendisi,
+  kullanýcý, üst yönetim gibi kiþilerden oluþur. Bir yazýlým için paydaþlarý
+  belirler iken, “yazýlýmdan kimler etkilenecek” ve “kimler yazýlýmý
+  etkileyecek” sorularý sorulur.<span style=3D'mso-spacerun:yes'> </span></=
+td>
+  <td class=3Dxl69 width=3D301 style=3D'border-left:none;width:226pt'><a
+  href=3D"https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/yaz%C4%B1l%C4%B1m=
+-mimarisi-temel-kavramlar-4de64353b4ac"
+  target=3D"_parent">https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/yaz%C4=
+%B1l%C4%B1m-mimarisi-temel-kavramlar-4de64353b4ac</a></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D77 style=3D'height:58.0pt'>
+  <td height=3D77 class=3Dxl68 style=3D'height:58.0pt'>Performans</td>
+  <td class=3Dxl68 style=3D'border-left:none'>Performance</td>
+  <td class=3Dxl67 width=3D422 style=3D'border-left:none;width:317pt'>Yazýl=
+ýmýn zaman
+  ile ilgili ilgili gereksinimleri saðlama özelliðidir. Bir olay olduðunda
+  sistemin tamamý yada bir bölümü bu olaya belirlenen zamanda cevap vermesi
+  beklenir.</td>
+  <td class=3Dxl69 width=3D301 style=3D'border-left:none;width:226pt'><a
+  href=3D"https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/yaz%C4%B1l%C4%B1m=
+-mimarisi-notlar%C4%B1-4-performans-kalite-%C3%B6zniteli%C4%9Fi-2c7345d924e=
+3"
+  target=3D"_parent">https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/yaz%C4=
+%B1l%C4%B1m-mimarisi-notlar%C4%B1-4-performans-kalite-%C3%B6zniteli%C4%9Fi-=
+2c7345d924e3</a></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D135 style=3D'height:101.5pt'>
+  <td height=3D135 class=3Dxl68 style=3D'height:101.5pt'>Referans mimariler=
+</td>
+  <td class=3Dxl68 style=3D'border-left:none'>Reference Architectures</td>
+  <td class=3Dxl67 width=3D422 style=3D'border-left:none;width:317pt'>Refer=
+ans
+  mimariler ise belirli bir alandaki yazýlým mimarisinin ihtiyaçlarýna karþ=
+ýlýk
+  veren ve genelde birden fazla tasarým kalýbýný içeren bütünsel bir mimari=
+dir.
+  Belirli bir referans mimariyi temel alan yazýlýmcý referans mimaride taný=
+mlý
+  katmanlar içerisinde referans mimaride tanýmlý bileþenleri ve bu bileþenl=
+er
+  arasýnda ise yine tanýmlý iliþkileri kurar.<br>
+    </td>
+  <td class=3Dxl69 width=3D301 style=3D'border-left:none;width:226pt'><a
+  href=3D"https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/yaz%C4%B1l%C4%B1m=
+-mimarisi-temel-kavramlar-4de64353b4ac"
+  target=3D"_parent">https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/yaz%C4=
+%B1l%C4%B1m-mimarisi-temel-kavramlar-4de64353b4ac</a></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D77 style=3D'height:58.0pt'>
+  <td height=3D77 class=3Dxl68 style=3D'height:58.0pt'>Servis Tabanlý Mimar=
+i</td>
+  <td class=3Dxl68 style=3D'border-left:none'>Service Oriented Architecture=
+</td>
+  <td class=3Dxl67 width=3D422 style=3D'border-left:none;width:317pt'><span
+  style=3D'mso-spacerun:yes'> </span>farklý kabiliyetler servis olarak
+  geliþtirilmekte ve istemcilerin istekleri bu servislere iletildiðinde ilg=
+ili
+  servis diðer servislerden tanýmlý ara yüzler üzerinden hizmet alarak
+  istemcinin ihtiyacýný karþýlamaktadýr.</td>
+  <td class=3Dxl69 width=3D301 style=3D'border-left:none;width:226pt'><a
+  href=3D"https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/mimari-tasar%C4%B=
+1m-kal%C4%B1plar%C4%B1-94a4f47d32a8"
+  target=3D"_parent">https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/mimari=
+-tasar%C4%B1m-kal%C4%B1plar%C4%B1-94a4f47d32a8</a></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D77 style=3D'height:58.0pt'>
+  <td height=3D77 class=3Dxl68 style=3D'height:58.0pt'>Sýfýrdan Tasarým</td>
+  <td class=3Dxl68 style=3D'border-left:none'>Greenfield System</td>
+  <td class=3Dxl67 width=3D422 style=3D'border-left:none;width:317pt'>Yazýl=
+ým
+  tasarýmý tamamen yeni bir alanda yapýlýyor ise mimari tasarým çok daha
+  yaratýcý ve zorlayýcý olabilmektedir. Bu tür sistemlerin tasarýmýna sýfýr=
+dan
+  tasarým denmektedir.</td>
+  <td class=3Dxl69 width=3D301 style=3D'border-left:none;width:226pt'><a
+  href=3D"https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/yaz%C4%B1l%C4%B1m=
+-mimarileri-5-kalite-%C3%B6znitelikleri-tabanl%C4%B1-tasar%C4%B1m-fb38d7937=
+6f3"
+  target=3D"_parent">https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/yaz%C4=
+%B1l%C4%B1m-mimarileri-5-kalite-%C3%B6znitelikleri-tabanl%C4%B1-tasar%C4%B1=
+m-fb38d79376f3</a></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D77 style=3D'height:58.0pt'>
+  <td height=3D77 class=3Dxl68 style=3D'height:58.0pt'>Süreklilik</td>
+  <td class=3Dxl68 style=3D'border-left:none'>Availability</td>
+  <td class=3Dxl67 width=3D422 style=3D'border-left:none;width:317pt'>Sürek=
+lilik
+  kalite özniteliði bir sistemin ihtiyaç duyulduðunda kullanýlabilir ve
+  faydalanýlabilir olma derecesidir.<span style=3D'mso-spacerun:yes'> </spa=
+n></td>
+  <td class=3Dxl69 width=3D301 style=3D'border-left:none;width:226pt'><a
+  href=3D"https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/yaz%C4%B1l%C4%B1m=
+-mimarisi-notlar%C4%B1-3-s%C3%BCreklilik-kalite-%C3%B6zniteli%C4%9Fi-c35667=
+77e66c"
+  target=3D"_parent">https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/yaz%C4=
+%B1l%C4%B1m-mimarisi-notlar%C4%B1-3-s%C3%BCreklilik-kalite-%C3%B6zniteli%C4=
+%9Fi-c3566777e66c</a></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D97 style=3D'height:72.5pt'>
+  <td height=3D97 class=3Dxl68 style=3D'height:72.5pt'>Taktikler</td>
+  <td class=3Dxl68 style=3D'border-left:none'>Tactics</td>
+  <td class=3Dxl67 width=3D422 style=3D'border-left:none;width:317pt'>Mimari
+  taktikler temel seviyedeki çözüm teknikleridir. Yazýlým geliþtiriciler bu
+  temel seviyedeki taktikleri yýllardýr kullanmaktadýr. Örneðin yazýlýmýn
+  performansýný arttýrmak için verinin birden fazla kopyasýný tutma, kaynak=
+larý
+  arttýrma, koþut çalýþmayý saðlama kullanýlabilecek taktikler arasýndadýr.=
+</td>
+  <td class=3Dxl69 width=3D301 style=3D'border-left:none;width:226pt'><a
+  href=3D"https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/yaz%C4%B1l%C4%B1m=
+-mimarisi-temel-kavramlar-4de64353b4ac"
+  target=3D"_parent">https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/yaz%C4=
+%B1l%C4%B1m-mimarisi-temel-kavramlar-4de64353b4ac</a></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D97 style=3D'height:72.5pt'>
+  <td height=3D97 class=3Dxl68 style=3D'height:72.5pt'>Teknik Borç</td>
+  <td class=3Dxl68 style=3D'border-left:none'>Technical Debt</td>
+  <td class=3Dxl67 width=3D422 style=3D'border-left:none;width:317pt'>Ýdeal=
+ olmayan
+  kod, tasarým yada mimari, bir problemi çözmek için kullandýðýnýz kestirme=
+ yol
+  veya dikkate almadýðýmýz hata veya operasyonel durumlarýn sonradan tespit
+  edilip kodda düzeltilmesi ekstra maliyet getirecektir. Bu durum finansal
+  sistemden esinlenerek teknik borç olarak nitelendirilir.<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl69 width=3D301 style=3D'border-left:none;width:226pt'><a
+  href=3D"https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/mimarinin-evrimi-=
+1-teknik-bor%C3%A7-nedir-e87d89fe12de"
+  target=3D"_parent">https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/mimari=
+nin-evrimi-1-teknik-bor%C3%A7-nedir-e87d89fe12de</a></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D77 style=3D'height:58.0pt'>
+  <td height=3D77 class=3Dxl68 style=3D'height:58.0pt'>Teslim Zamaný&nbsp;<=
+span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl68 style=3D'border-left:none'>Deadline</td>
+  <td class=3Dxl67 width=3D422 style=3D'border-left:none;width:317pt'>Bir i=
+þin
+  bitmesi gereken en son zamaný belirtir.</td>
+  <td class=3Dxl69 width=3D301 style=3D'border-left:none;width:226pt'><a
+  href=3D"https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/yaz%C4%B1l%C4%B1m=
+-mimarisi-notlar%C4%B1-4-performans-kalite-%C3%B6zniteli%C4%9Fi-2c7345d924e=
+3"
+  target=3D"_parent">https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/yaz%C4=
+%B1l%C4%B1m-mimarisi-notlar%C4%B1-4-performans-kalite-%C3%B6zniteli%C4%9Fi-=
+2c7345d924e3</a></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D58 style=3D'height:43.5pt'>
+  <td height=3D58 class=3Dxl68 style=3D'height:43.5pt'>Test Edilebilir Tasa=
+rým<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl68 style=3D'border-left:none'>Design for Testability</td>
+  <td class=3Dxl67 width=3D422 style=3D'border-left:none;width:317pt'>Tasar=
+ýmýn içine
+  test ile ilgili özelliklerin eklenmesidir.</td>
+  <td class=3Dxl69 width=3D301 style=3D'border-left:none;width:226pt'><a
+  href=3D"https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/yaz%C4%B1l%C4%B1m=
+-mimarileri-8-test-edilebilir-tasar%C4%B1m-ff558effa027"
+  target=3D"_parent">https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/yaz%C4=
+%B1l%C4%B1m-mimarileri-8-test-edilebilir-tasar%C4%B1m-ff558effa027</a></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D77 style=3D'height:58.0pt'>
+  <td height=3D77 class=3Dxl68 style=3D'height:58.0pt'>Test edilebilirlik</=
+td>
+  <td class=3Dxl68 style=3D'border-left:none'>Testability</td>
+  <td class=3Dxl67 width=3D422 style=3D'border-left:none;width:317pt'>Test
+  edilebilirlik kalite özniteliði bir yazýlýmýn hatalarýnýn test ile ne kad=
+ar
+  kolay yakalanabileceði ölçüsüdür. Test Edilebilirlik kalite özniteliðinin
+  öncelikle gözlenebilirlik, kontrol edilebilirlik ve boyutsal küçüklük kal=
+ite
+  özniteliklerinin ile alakalýdýr.</td>
+  <td class=3Dxl69 width=3D301 style=3D'border-left:none;width:226pt'><a
+  href=3D"https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/yaz%C4%B1l%C4%B1m=
+-mimarileri-8-test-edilebilir-tasar%C4%B1m-ff558effa027"
+  target=3D"_parent">https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/yaz%C4=
+%B1l%C4%B1m-mimarileri-8-test-edilebilir-tasar%C4%B1m-ff558effa027</a></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D251 style=3D'height:188.5pt'>
+  <td height=3D251 class=3Dxl68 style=3D'height:188.5pt'>Uyumluluk</td>
+  <td class=3Dxl68 style=3D'border-left:none'>Cohession</td>
+  <td class=3Dxl67 width=3D422 style=3D'border-left:none;width:317pt'>Bileþ=
+en içi
+  uyumluluk ile ilgili sýnýflandýrma aþaðýdaki gibidir:<br>
+    Tesadüfi Uyumluluk alakasýz elementlerin ayný bileþen içinde yer
+  almasýdýr.<br>
+    Mantýksal uyumluluk mantýksal olarak benzer fakat yöntemsel olarak fark=
+lý
+  iþlemlerin bir arada bulunmasýdýr. <br>
+    Zamansal uyumlulukta ayný zaman içinde/ sýrasýnda yapýlacak iþler ayný
+  bileþen içinde yer alýr.<br>
+    Yordam Uyumluluðu iþleme sýrasý peþ peþe olan iþlemler ayný bileþen içi=
+nde
+  yer alýr. <br>
+    Haberleþme uyumluluðunda ayný girdi üzerine iþlem yapan elemanlar ayný
+  bileþende yer alýr.<br>
+    Fonksiyonel uyumlulukta tek bir fonksiyonu yerine getiren iþlemler ayný
+  bileþen içinde yer almaktadýr. Bu ideal durumdur.</td>
+  <td class=3Dxl69 width=3D301 style=3D'border-left:none;width:226pt'><a
+  href=3D"https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/tasar%C4%B1m%C4%B=
+1n-temelleri-2-ba%C4%9F%C4%B1ml%C4%B1l%C4%B1k-ve-uyumluluk-tasar%C4%B1m-pre=
+nsipleri-20e28490e985"
+  target=3D"_parent">https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/tasar%=
+C4%B1m%C4%B1n-temelleri-2-ba%C4%9F%C4%B1ml%C4%B1l%C4%B1k-ve-uyumluluk-tasar=
+%C4%B1m-prensipleri-20e28490e985</a></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D58 style=3D'height:43.5pt'>
+  <td height=3D58 class=3Dxl68 style=3D'height:43.5pt'>Yazýlým Mimarileri</=
+td>
+  <td class=3Dxl68 style=3D'border-left:none'>Software Architecture</td>
+  <td class=3Dxl67 width=3D422 style=3D'border-left:none;width:317pt'>&quot=
+;</td>
+  <td class=3Dxl69 width=3D301 style=3D'border-left:none;width:226pt'><a
+  href=3D"https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/yaz%C4%B1l%C4%B1m=
+-mimarisi-temel-kavramlar-4de64353b4ac"
+  target=3D"_parent">https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/yaz%C4=
+%B1l%C4%B1m-mimarisi-temel-kavramlar-4de64353b4ac</a></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D97 style=3D'height:72.5pt'>
+  <td height=3D97 class=3Dxl68 style=3D'height:72.5pt'>Yeniden düzenleme</t=
+d>
+  <td class=3Dxl68 style=3D'border-left:none'>Refactor</td>
+  <td class=3Dxl67 width=3D422 style=3D'border-left:none;width:317pt'>Yenid=
+en
+  düzenleme yazýlýmýn iç yapýsýnýn düzeltilirken dýþ davranýþýnýn ayný kalm=
+asý
+  olarak tanýmlanmaktadýr. Mimari yeniden düzenlemede ise amaç sistemin
+  deðiþtirilebilirlik, performans, test edilebilirlik, deðiþtire bilirlik,b=
+akým
+  yapýlabilirlik ve süreklilik gibi kalite öz niteliklerini iyileþtirmek
+  olacaktýr.</td>
+  <td class=3Dxl69 width=3D301 style=3D'border-left:none;width:226pt'><a
+  href=3D"https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/mimarinin-evrimi-=
+2-teknik-bor%C3%A7-nas%C4%B1l-%C3%B6denir-35f993a7e95c"
+  target=3D"_parent">https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri/mimari=
+nin-evrimi-2-teknik-bor%C3%A7-nas%C4%B1l-%C3%B6denir-35f993a7e95c</a></td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.5pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.5pt;mso-ignore:colspan'></=
+td>
+  <td class=3Dxl65 width=3D422 style=3D'width:317pt'></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.5pt'>
+  <td height=3D19 colspan=3D2 style=3D'height:14.5pt;mso-ignore:colspan'></=
+td>
+  <td class=3Dxl65 width=3D422 style=3D'width:317pt'></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D181 style=3D'width:136pt'></td>
+  <td width=3D181 style=3D'width:136pt'></td>
+  <td width=3D422 style=3D'width:317pt'></td>
+  <td width=3D301 style=3D'width:226pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01D65F94.18F24F20
+Content-Location: file:///C:/F59ECFEB/file5835_dosyalar/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../file5835.htm"/>
+ <o:File HRef=3D"stylesheet.css"/>
+ <o:File HRef=3D"tabstrip.htm"/>
+ <o:File HRef=3D"sheet001.htm"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01D65F94.18F24F20--
