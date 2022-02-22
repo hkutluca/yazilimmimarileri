@@ -1,7 +1,11 @@
 Context Diagram
+==============
+
 
 ```plantuml
+
 @startuml
+
 !include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Context.puml
 ' uncomment the following line and comment the first to use locally
 ' !include C4_Context.puml
@@ -25,6 +29,7 @@ Rel(Ros2 , DDS, "communication middleware")
 ```
 
 Container Diagram
+===============
 ```plantuml
 @startuml
 !include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
@@ -72,7 +77,8 @@ Rel(VehicleInterface, Localization, "VehicleSensor")
 
 
 
-
+Component Diagram
+=================
 
 ```plantuml
  @startuml
@@ -101,8 +107,8 @@ Rel(rcl, rmw, "Uses","Api")
 ```
 
 
-
-
+CODE
+==================
 
 ```plantuml
 @startuml
