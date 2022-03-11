@@ -1,0 +1,12 @@
+@startuml
+participant User_Code 
+participant RCLCpp
+participant RCL
+participant RMW
+participant DDS
+autonumber 
+User_Code->RCLCpp: Publisher::Publish 
+RCLCpp->RCL: rcl_publish
+RCL->RMW: rmw_publish
+RMW->DDS: data_writer.write
+@enduml
