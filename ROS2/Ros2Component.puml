@@ -1,0 +1,27 @@
+@startuml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Component.puml
+' uncomment the following line and comment the first to use locally
+' !include C4_Component.puml
+
+LAYOUT_WITH_LEGEND()
+
+title Component Diagram for ROS2 components
+
+Component_Ext(DDS, "DDS Middleware library", "DDS Library from DDS vendor(Fast RTPS, Cyclone DDS, RTI Connext)")
+Container(usercodeCpp, "User Code", "C++", "User code, no direct access to DDS MW")
+Container(usercodePy, "User Code", "Py", "User code, no direct access to DDS MW")
+
+Container_Boundary(app, "ROS2 Components") {
+Component(rmw, "ROS middleware interface(RMW)", "C++", "The ROS middleware interface (rmw API) is the minimal set of primitive middleware capabilities needed to build ROS on top. Providers of different middleware implementations must implement this interface in order to support the entire ROS stack on top. \n pub/sub with QOS, Services with QOS, Discovery, Graph events")
+Component(rcl, "ROS Client Library(rcl)", "C api and optional C++ Implementation", " \n Nodes, Publisher, Subscription, Service Client, Service Server, Timer, Console logging, Parameter")
+Component(rclCPP, "rclCPP", "C++", "ROS Client Library C++ Wrapper.")
+Component(rclPy, "rclPy", "Python", "ROS Client Library Python Wrapper.")
+Rel(rmw, DDS, "Uses","Api")
+Rel(usercodeCpp, rclCPP, "Uses","Api")
+Rel(usercodePy, rclPy, "Uses","Api")
+Rel(rclCPP, rcl, "Uses","Api")
+Rel(rclPy, rcl, "Uses","Api")
+Rel(rcl, rmw, "Uses","Api")
+}
+
+@enduml
