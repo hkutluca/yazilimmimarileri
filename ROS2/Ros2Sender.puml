@@ -1,0 +1,20 @@
+@startuml
+participant main  as main
+participant "rclpp" as rcpp_p
+participant "MinimalPublisher : public rclcpp::Node" as node
+participant publisher
+autonumber 
+main->rcpp_p: init()
+main->rcpp_p :spin(make_shared<MinimalPublisher>())
+create node
+rcpp_p->node :create
+node->node: create_publisher()
+create publisher
+node->publisher:
+node->node: create_wall_timer()
+node->>node: timer_callback()
+create message
+node->message : new Message("Hello, world!") 
+node->publisher:publish(message)
+
+@enduml

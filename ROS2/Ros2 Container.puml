@@ -1,0 +1,29 @@
+@startuml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+' uncomment the following line and comment the first to use locally
+' !include C4_Container.puml
+' LAYOUT_TOP_DOWN()
+
+title Container diagram for Autoware Auto
+ Container(Sensing, "Sensing", "Autoware mainly recognizes road environments with the help of LIDAR scanners and cameras.") 
+ Container(Localization, "Localization", "The localization contains nodes and libraries which provide an estimate regarding the location of the vehicle using various methods and algorithms") 
+Container(Perception, "Perception",  "filters and segmentation. The filters are nodes and libraries which are part of the filtering pipeline for sensor data. Nodes work as standalone filtering modules or cascaded with other filtering algorithms working on the same sensor data types. Enable sensor data to be grouped into clusters or objects of interest which can provide downstream procsses more information about the environment.") 
+Container(Planning, "Planning",  "Produce a trajectory towards a provided goal. Involved in the planning process in order to alleviate the complexity of the path-planning optimization problem.")
+Container(Control, "Control", "Nodes and libraries related to the controller functionalities of the vehicle. They enable the autonomous vehicle to follow a reference trajectory appropriately by converting the input trajectory into longitudinal and lateral commands.")
+Container(VehicleInterface, "Vehicle Interface", "Sensor/Actuator Drivers")
+ 
+System_Ext(Vehicle, "Vehicle", "The Autonomous Vehicle") 
+System_Ext(Sensors, "Sensors", "Lidar, Camera, GPS etc.")
+Rel(Sensors, Sensing, "Socket, Serial etc.")
+Rel(Sensing, Perception, "Sensing Data")
+Rel_Neighbor(Perception, Planning, "Surrounding Environment") 
+Rel_Neighbor(Planning, Control, "Trajectory")
+Rel(Control, VehicleInterface, "Vehicle Commands")
+Rel(VehicleInterface,Control, "Steering, Velocity Feedback")
+BiRel(VehicleInterface, Vehicle, "Can, Socket, Serial")
+Rel(Sensing, Localization, "Current Position and Velocity") 
+Rel(Localization,Perception, "Current Position and velocity") 
+Rel(Localization,Planning, "Current Position and velocity") 
+Rel(Localization, Control, "Current Position and velocity")
+Rel(VehicleInterface, Localization, "VehicleSensor")
+@enduml

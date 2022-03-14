@@ -1,0 +1,16 @@
+@startuml
+participant Publisher_User_Code 
+participant "RCLCpp(publisher)" as rcpp_p
+participant "RCL(publisher)" as rcl_p 
+participant "RMW(publisher)" as rmw_p
+participant "DDS(publisher)" as dds_p
+participant "DDS(Subscriber)" as dds_s
+
+autonumber 
+Publisher_User_Code->rcpp_p: Publisher::Publish 
+rcpp_p->rcl_p: rcl_publish
+rcl_p->rmw_p: rmw_publish
+rmw_p->dds_p: data_writer.write
+dds_p->>dds_s: udp multicast.send/shared memory transfer
+
+@enduml

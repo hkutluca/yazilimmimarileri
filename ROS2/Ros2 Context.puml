@@ -1,0 +1,21 @@
+@startuml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Context.puml
+' uncomment the following line and comment the first to use locally
+' !include C4_Context.puml
+
+title System Context diagram for AutoWare Auto and ROS2
+
+Person(Integrator, "Integrator", "Autonomous Vehicle Developer")
+System(Autoware_Auto,"Autoware Auto", " Autoware is the world's first all-in-one open-source software for self-driving vehicles hosted under the Autoware Foundation. The Autoware.Auto project, based on ROS 2, is the next generation successor of the Autoware.AI project, based on ROS 1.")
+
+
+System(Ros2 , "ROS2", "Robot Operating System (ROS) is a set of open source algorithms, hardware driver software and tools developed to develop robot control software. ROS includes mature open source libraries to be used for navigation, control, motion planning, vision and simulation purposes.")
+
+System_Ext(DDS, "DDS", "Data Distribution Service (DDS)  is a data centric publish/subscribe middleware used for data transmission in distributed real time systems. ")
+
+Rel(Integrator, Autoware_Auto, "Utilizes")
+Rel_Neighbor(Autoware_Auto, Ros2 , "Based on")
+
+Rel(Ros2 , DDS, "communication middleware")
+
+@enduml
