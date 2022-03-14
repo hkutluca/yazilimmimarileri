@@ -1,4 +1,5 @@
 @startuml
+title Sequence Diagram for Ros2 Mw components 
 participant Publisher_User_Code 
 participant "RCLCpp(publisher)" as rcpp_p
 participant "RCL(publisher)" as rcl_p 

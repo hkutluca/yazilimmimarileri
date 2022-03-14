@@ -1,4 +1,5 @@
 @startuml
+title Sequence diagram for sending a message
 participant main  as main
 participant "rclpp" as rcpp_p
 participant "MinimalPublisher : public rclcpp::Node" as node
