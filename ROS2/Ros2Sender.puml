@@ -6,16 +6,20 @@ participant "MinimalPublisher : public rclcpp::Node" as node
 participant publisher
 autonumber 
 main->rcpp_p: init()
-main->rcpp_p :spin(make_shared<MinimalPublisher>())
 create node
-rcpp_p->node :create
+main-> node:create
 node->node: create_publisher()
 create publisher
 node->publisher:
 node->node: create_wall_timer()
+main->rcpp_p :spin
+loop
+rcpp_p->node:execute()
+end
+group timer expires
 node->>node: timer_callback()
 create message
 node->message : new Message("Hello, world!") 
 node->publisher:publish(message)
-
+end
 @enduml
