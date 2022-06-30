@@ -1,0 +1,18 @@
+@startuml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Context.puml
+' uncomment the following line and comment the first to use locally
+' !include C4_Component.puml
+
+LAYOUT_WITH_LEGEND()
+
+title Context Diagram for Voice Activated Door Control System
+
+Person(customer, "Person", "person walks to the door")
+System(VoiceActivatedDoorControl,"Voice Activated Door Control System","Receives realtime voice of person and makes recognition, then opens door if access permited") 
+System_Ext(DoorControlHardware, "Door Control System", "Opens/Closes Door with electronics systems") 
+System_Ext(MicrophoneSystem, "Microphone System", "Microphone for door control") 
+Rel(customer, VoiceActivatedDoorControl, "Uses system to enter the house using own voice")
+Rel(VoiceActivatedDoorControl, DoorControlHardware, "Disceate IO","Commands to open/close door")
+Rel(VoiceActivatedDoorControl, MicrophoneSystem, "UDP","Gets voice data as UDP stream")
+@enduml
+

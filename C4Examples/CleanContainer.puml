@@ -1,0 +1,22 @@
+@startuml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+' uncomment the following line and comment the first to use locally
+' !include C4_Component.puml
+
+LAYOUT_WITH_LEGEND()
+
+title Container Diagram for Voice Activated Door Control System
+
+Person_Ext(customer, "Person", "person walks to the door")
+Container(VoiceActivatedDoorControl,"Voice Activated Door Control Microservice","c++","Receives realtime voice of person and makes recognition, then opens door if access permited") 
+Container(VoiceTraining,"Voice Training Microservice","c++","Gets sample voices from rest sdervice and uses them for machine learing purpose") 
+Container(WEBComponent,"WebComponent","React","User interface for management and monitoring of system") 
+ContainerDb(DB, "DB", "PosgreeSQL", "Stores metadata for voice recognition")
+Rel_Down(customer,VoiceActivatedDoorControl,"audio")
+Rel_Down(customer,WEBComponent,"Trains own voice to system")
+Rel(VoiceActivatedDoorControl,DB,"Gets voice recognition data")
+Rel(VoiceTraining,DB,"Puts voice recognition data")
+Rel(WEBComponent,VoiceTraining,"Rest","Sends Voice Recognition Data")
+
+@enduml
+

@@ -1,0 +1,21 @@
+@startuml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Component.puml
+' uncomment the following line and comment the first to use locally
+' !include C4_Component.puml
+
+LAYOUT_WITH_LEGEND()
+
+title Component Diagram for Voice Activated door control system
+
+Person_Ext(customer, "Person", "person walks to the door")
+Container(Service, "Service", "C++", "Main Service")
+
+Container(VoiceRecogniton, "VoiceRecogniton", "C++", "Voice Recognition Module")
+Container(DoorControl, "DoorControl", "C++", "Opens and Clsoeses door")
+
+Rel(customer,Service,"talks")
+Rel(Service,VoiceRecogniton,"Initiatesd Voice Recognition")
+Rel(Service,DoorControl,"Initiates Door control")
+
+@enduml
+
